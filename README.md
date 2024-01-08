@@ -1,6 +1,6 @@
 stereotypical js, html and css dev<br><br>
 
-**i use:** nodejs, (still learning) tailwind, (still learning) vue<br><br>
+**i use:** nodejs, tailwind, vue<br><br>
 
 ⣿⡟⠙⠛⠋⠩⠭⣉⡛⢛⠫⠭⠄⠒⠄⠄⠄⠈⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿<br>
 ⣿⡇⠄⠄⠄⠄⣠⠖⠋⣀⡤⠄⠒⠄⠄⠄⠄⠄⠄⠄⠄⠄⣈⡭⠭⠄⠄⠄⠉⠙<br>
