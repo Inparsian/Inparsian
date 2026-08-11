@@ -1,7 +1,6 @@
 ### 🌙 [sn.inpr](https://inpr.sn)
 
-writer of code and breaker of software<br>
-i use arch btw
+really loves monospace & bitmap fonts
 
 ### ⚙️ stack
 
