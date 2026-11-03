@@ -4,7 +4,7 @@ really loves monospace & bitmap fonts
 
 ### ⚙️ stack
 
-`rust` • `ts` • `vue` • `c++` • `sql` • `mongo`
+`rust` • `java` • `kotlin` • `ts` • `vue` • `c++` • `sql` • `mongo`
 
 ### 👋 contact
 
